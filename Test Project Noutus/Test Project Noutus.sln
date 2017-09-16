@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Project Noutus", "Test Project Noutus.csproj", "{45EDB92A-CF9D-4B3C-321A-34403BA3AFCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EDB92A-CF9D-4B3C-321A-34403BA3AFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EDB92A-CF9D-4B3C-321A-34403BA3AFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EDB92A-CF9D-4B3C-321A-34403BA3AFCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EDB92A-CF9D-4B3C-321A-34403BA3AFCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
