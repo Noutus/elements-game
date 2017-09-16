@@ -84,9 +84,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Collectable.cs" />
+    <Compile Include="Assets\Scripts\CollectableOrb.cs" />
+    <Compile Include="Assets\Scripts\CollectCollectable.cs" />
     <Compile Include="Assets\Scripts\InputMovement.cs" />
     <Compile Include="Assets\Scripts\InputStrings.cs" />
     <Compile Include="Assets\Scripts\MouseRotation.cs" />
+    <Compile Include="Assets\Scripts\PullCollectables.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
