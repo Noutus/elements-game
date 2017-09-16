@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\InputMovement.cs" />
     <Compile Include="Assets\Scripts\InputStrings.cs" />
+    <Compile Include="Assets\Scripts\MouseRotation.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
